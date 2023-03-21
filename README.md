@@ -1,8 +1,13 @@
+EDA with Python
+
+Repository containing some Exploratory Data Analysis (EDA) using Python completed by me for self learning.They are presented in form of Jupyter notebooks
+
 #Projects
 
 ##Contents
 
 ###Exploratory Data Analysis using Python
+
 [EDA Project1](https://github.com/I-Noella/My-First-EDA-with-Python/blob/main/EDA%20project1.ipynb)
 
 
