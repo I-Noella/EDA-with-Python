@@ -1,4 +1,8 @@
-# My-First-EDA-with-Python
+#Projects
+
+##Contents
+
+###Exploratory Data Analysis using Python
 [EDA Project1](https://github.com/I-Noella/My-First-EDA-with-Python/blob/main/EDA%20project1.ipynb)
 
 
